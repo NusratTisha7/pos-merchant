@@ -1,6 +1,13 @@
 Description:
 
-I have created a online pos system. I gave the final app screenshots below.
+I have created a online pos system. On the screen I have shown the category and product list which I get from a database(MongoDB). When you select a product, it will add in cart and you can adjust it's quantity. I gave the final app screenshots below.
 
-![mos-merchant](https://user-images.githubusercontent.com/86945412/134763048-bf399350-3ba3-4136-b50f-5c60f1d850ed.PNG)
+![pos-merchant](https://user-images.githubusercontent.com/86945412/134763652-f3d21257-8d8e-4f7f-8c57-d6ba65c19557.PNG)
+
+By clicking Save and Checkout button you will see the final itemlist page and it will ready to printout.
+
+![pos](https://user-images.githubusercontent.com/86945412/134763662-a03bbe8d-d216-452b-bdc7-79a5d0957245.PNG)
+
+
+
 
