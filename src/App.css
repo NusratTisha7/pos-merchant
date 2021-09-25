@@ -1,0 +1,60 @@
+html{
+  scroll-behavior: smooth;
+}
+*{
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.navbar{
+  background-color: #e0e0e0;
+  height: 50px;
+}
+#item-section{
+  background: white;
+  margin: 20px 5px;
+  padding: 20px;
+}
+.item{
+  display: flex;
+  flex-wrap: wrap;
+}
+.card{
+  height: 100px;
+  width: 120px;
+  margin: 5px;
+  border: 1px solid grey;
+}
+.card-body{
+  margin: auto;
+}
+.card-img{
+  height: 70px;
+  border: 1px solid grey;
+}
+.scrollmenu{
+  overflow: auto;
+  white-space: nowrap;
+  height: 110px;
+}
+#cartItem-section{
+  background-color: white;
+  margin: 20px 5px;
+  padding: 20px;
+  height: 100vh;
+}
+.span{
+  color: rgb(18, 87, 114);
+  font-size: 1.1rem;
+}
+.modal-title{
+  margin-left: 100px;
+}
+td{
+  text-align: center;
+}
+tr{
+  text-align: center;
+}
+
+
